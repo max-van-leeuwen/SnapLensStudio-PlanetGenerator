@@ -4,7 +4,8 @@
 
 A Lens Studio project for procedural planet generation using the Shader Graph Editor (.lso, project)!
 
-Has a nice UI and some cool features.
+Has a nice UI and some cool features!
+The main script contains some useful functons, like a linear to cubic converter, a random number generator with normal (bell curve) distribution, and some good examples of how to combine script and Shader Graph.
 
 <br/><br/>
 
