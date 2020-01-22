@@ -1,0 +1,2706 @@
+{
+    "lens_id": "",
+    "document_id": "iXRv6JvScgoZXjhDZEOd",
+    "original_document_id": "6ftYA-677kvY6YhbwhtT",
+    "version": "20",
+    "lastChanged": "1579670265432",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Material",
+                        "CamButton"
+                    ],
+                    [
+                        "Material",
+                        "Matte Shadow"
+                    ],
+                    [
+                        "Material",
+                        "Moon"
+                    ],
+                    [
+                        "Material",
+                        "PlanetSurface"
+                    ],
+                    [
+                        "Material",
+                        "RandomButton"
+                    ],
+                    [
+                        "Material",
+                        "RepeatButton"
+                    ],
+                    [
+                        "Material",
+                        "Sky"
+                    ],
+                    [
+                        "Material",
+                        "ThinClouds"
+                    ],
+                    [
+                        "Material",
+                        "UpButton"
+                    ],
+                    [
+                        "Material",
+                        "touch_collision"
+                    ],
+                    [
+                        "Mesh",
+                        "Sphere"
+                    ],
+                    [
+                        "Mesh",
+                        "Sphere_HQ"
+                    ],
+                    [
+                        "Mesh",
+                        "Sphere_HQ",
+                        "Animations"
+                    ],
+                    [
+                        "Mesh",
+                        "Sphere_HQ",
+                        "Meshes",
+                        "Resource"
+                    ],
+                    [
+                        "Mesh",
+                        "Sphere_HQ",
+                        "Sphere_HQ"
+                    ],
+                    [
+                        "Mesh",
+                        "plane"
+                    ],
+                    [
+                        "Mesh",
+                        "touch_collision_cube"
+                    ],
+                    [
+                        "Scripts",
+                        "CameraButtonPress"
+                    ],
+                    [
+                        "Scripts",
+                        "PlanetController"
+                    ],
+                    [
+                        "Scripts",
+                        "RandomButtonPress"
+                    ],
+                    [
+                        "Scripts",
+                        "RepeatButtonPress"
+                    ],
+                    [
+                        "Scripts",
+                        "UpButtonPress"
+                    ],
+                    [
+                        "Scripts",
+                        "WorldObjectController"
+                    ],
+                    [
+                        "Stream",
+                        "Render Target UI"
+                    ],
+                    [
+                        "Texture",
+                        "Buttons",
+                        "Cam_rgb"
+                    ],
+                    [
+                        "Texture",
+                        "Buttons",
+                        "RandomButton_rgb"
+                    ],
+                    [
+                        "Texture",
+                        "Buttons",
+                        "Repeat_rgb"
+                    ],
+                    [
+                        "Texture",
+                        "Buttons",
+                        "Up_rgb"
+                    ],
+                    [
+                        "Texture",
+                        "Buttons",
+                        "a"
+                    ],
+                    [
+                        "Texture",
+                        "StarMap"
+                    ],
+                    [
+                        "Texture",
+                        "black"
+                    ],
+                    [
+                        "Tween",
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "TweenManager"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "Legacy"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "Legacy",
+                        "TweenBillboard [DEPRECATED]"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenAlpha"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenChain"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenColor"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenScreenTransform"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenTransform"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenValue"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "530c0fa6b55b9cf67cf6645392d9c2a0",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "Planet Generator",
+            "applicability": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1577050209527689:40232",
+                    "1577749586283102:44916"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "1579481018577659:17499",
+            "active_graph_pass": "0"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1576363707123800:7522",
+                    "name": "Files\/File9.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1576363707178544:7548",
+                    "name": "Sphere_HQ",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1576979213700050:8017",
+                    "name": "Files\/File28.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1576979213850399:8033",
+                    "name": "Files\/File29.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1576979215122367:8116",
+                    "name": "Files\/File39.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1576979215196453:8128",
+                    "name": "Files\/File40",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1577050656243463:43772",
+                    "name": "Files\/File45",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1577077595807091:66400",
+                    "name": "Files\/File69.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1577079274628231:81114",
+                    "name": "Files\/File71.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1577580782772440:6569",
+                    "name": "Files\/File81.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "56",
+                    "uid": "1577749297053987:31314",
+                    "name": "Files\/File82.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1577752009336747:8844",
+                    "name": "Files\/File87",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1577752378411750:31117",
+                    "name": "Files\/File89.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1577752378530761:31129",
+                    "name": "Files\/File90.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1577752378666865:31141",
+                    "name": "Files\/File91.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1577752378952112:31169",
+                    "name": "Files\/File93.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "65",
+                    "uid": "1577752379086001:31181",
+                    "name": "Files\/File94.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "66",
+                    "uid": "1577752379255909:31193",
+                    "name": "Files\/File95.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "67",
+                    "uid": "1577752379394355:31205",
+                    "name": "Files\/File96.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "68",
+                    "uid": "1577752379557930:31217",
+                    "name": "Files\/File97.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "70",
+                    "uid": "1577752379767033:31253",
+                    "name": "Files\/File99.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "71",
+                    "uid": "1577829683283197:8296",
+                    "name": "Files\/File100.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "72",
+                    "uid": "1577829683561828:8305",
+                    "name": "Files\/File102.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "73",
+                    "uid": "1577829683955504:9140",
+                    "name": "Files\/File104.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "74",
+                    "uid": "1577829684558689:9985",
+                    "name": "Files\/File106.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "75",
+                    "uid": "1577829708115234:17674",
+                    "name": "Files\/File108",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1577829710362862:18724",
+                    "name": "Files\/File110",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "77",
+                    "uid": "1577830152135184:88634",
+                    "name": "Files\/File112.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "78",
+                    "uid": "1577830161467168:90938",
+                    "name": "Files\/File113.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "79",
+                    "uid": "1577830254669768:108897",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "80",
+                    "uid": "1577830773020258:130536",
+                    "name": "Files\/File114",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "82",
+                    "uid": "1577831807237782:197646",
+                    "name": "Files\/File118.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "83",
+                    "uid": "1577831946265179:200316",
+                    "name": "Files\/File120",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "84",
+                    "uid": "1577832016416626:206399",
+                    "name": "Files\/File122.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "89",
+                    "uid": "1577836752781481:21954",
+                    "name": "Files\/File131.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "90",
+                    "uid": "1579481018577659:17499",
+                    "name": "Files\/File133",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "91",
+                    "uid": "1579481021345824:17607",
+                    "name": "Files\/File135",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "92",
+                    "uid": "1579481026063904:19654",
+                    "name": "Files\/File137",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1577751972605655:6020",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1577751972692485:6154",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "true",
+                                    "attachLeft": "true",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1577829848347189:40228",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "true",
+                                    "attachLeft": "true",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1577829889524457:49662",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "true",
+                                    "attachLeft": "true",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1577831790757087:193118",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "true",
+                                    "attachLeft": "true",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1576362381153443:2581",
+                "1": "1576362387015049:2585",
+                "2": "1576979216838367:8239",
+                "3": "1576979346274696:10640",
+                "4": "1577050620492174:43120",
+                "5": "1577051799999009:61271",
+                "6": "1577056372757659:125220",
+                "7": "1577056410822121:125591",
+                "8": "1577058643891085:166909",
+                "9": "1577077658911079:67088",
+                "10": "1577079274679168:81170",
+                "11": "1577144242942609:144615",
+                "12": "1577144259970970:145418",
+                "13": "1577144371896703:147936",
+                "14": "1577144371897209:147938",
+                "15": "1577144383432496:148766",
+                "16": "1577144383433495:148768",
+                "17": "1577751972573939:5953",
+                "18": "1577751972604592:6018",
+                "19": "1577751972692117:6153",
+                "20": "1577752381222682:31355",
+                "21": "1577829848282022:39968",
+                "22": "1577829889457495:49402",
+                "23": "1577831515294626:178980",
+                "24": "1577831790756006:193116"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "9",
+                    "v": "Files\/File9.mesh"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.oprfb"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.obj"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.oprfb"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.js"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.mesh"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.mesh"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.lsmat"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.lsmat"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.png"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.png"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.mesh"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.js"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.js"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.lsmat"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.js"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.js"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.js"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.js"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.js"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.js"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.js"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.js"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.js"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.jpg"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.jpg"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.jpg"
+                },
+                {
+                    "k": "103",
+                    "v": "Files\/File103.jpg"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104.jpg"
+                },
+                {
+                    "k": "105",
+                    "v": "Files\/File105.jpg"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106.jpg"
+                },
+                {
+                    "k": "107",
+                    "v": "Files\/File107.jpg"
+                },
+                {
+                    "k": "108",
+                    "v": "Files\/File108"
+                },
+                {
+                    "k": "109",
+                    "v": "Files\/File109.lsmat"
+                },
+                {
+                    "k": "110",
+                    "v": "Files\/File110"
+                },
+                {
+                    "k": "111",
+                    "v": "Files\/File111.lsmat"
+                },
+                {
+                    "k": "112",
+                    "v": "Files\/File112.js"
+                },
+                {
+                    "k": "113",
+                    "v": "Files\/File113.js"
+                },
+                {
+                    "k": "114",
+                    "v": "Files\/File114"
+                },
+                {
+                    "k": "115",
+                    "v": "Files\/File115.lsmat"
+                },
+                {
+                    "k": "118",
+                    "v": "Files\/File118.jpg"
+                },
+                {
+                    "k": "119",
+                    "v": "Files\/File119.jpg"
+                },
+                {
+                    "k": "120",
+                    "v": "Files\/File120"
+                },
+                {
+                    "k": "121",
+                    "v": "Files\/File121.lsmat"
+                },
+                {
+                    "k": "122",
+                    "v": "Files\/File122.js"
+                },
+                {
+                    "k": "131",
+                    "v": "Files\/File131.jpg"
+                },
+                {
+                    "k": "132",
+                    "v": "Files\/File132.jpg"
+                },
+                {
+                    "k": "133",
+                    "v": "Files\/File133"
+                },
+                {
+                    "k": "134",
+                    "v": "Files\/File134.lsmat"
+                },
+                {
+                    "k": "135",
+                    "v": "Files\/File135"
+                },
+                {
+                    "k": "136",
+                    "v": "Files\/File136.lsmat"
+                },
+                {
+                    "k": "137",
+                    "v": "Files\/File137"
+                },
+                {
+                    "k": "138",
+                    "v": "Files\/File138.lsmat"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "3",
+                        "v": "Stream"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Mesh"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Material"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Mesh\/Sphere_HQ.obj"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "22",
+                        "v": "Scripts\/WorldObjectController.js"
+                    },
+                    {
+                        "k": "23",
+                        "v": "Mesh\/touch_collision_cube.mesh"
+                    },
+                    {
+                        "k": "32",
+                        "v": "Mesh\/plane.mesh"
+                    },
+                    {
+                        "k": "33",
+                        "v": "Material\/touch_collision.lsmat"
+                    },
+                    {
+                        "k": "37",
+                        "v": "Material\/Matte Shadow.lsmat"
+                    },
+                    {
+                        "k": "44",
+                        "v": "Texture"
+                    },
+                    {
+                        "k": "52",
+                        "v": "Texture\/black.png"
+                    },
+                    {
+                        "k": "53",
+                        "v": "Mesh\/Sphere.mesh"
+                    },
+                    {
+                        "k": "688",
+                        "v": "Scripts\/PlanetController.js"
+                    },
+                    {
+                        "k": "689",
+                        "v": "Scripts\/RandomButtonPress.js"
+                    },
+                    {
+                        "k": "690",
+                        "v": "Texture\/Buttons"
+                    },
+                    {
+                        "k": "695",
+                        "v": "Material\/RandomButton.lsmat"
+                    },
+                    {
+                        "k": "696",
+                        "v": "Tween"
+                    },
+                    {
+                        "k": "697",
+                        "v": "Tween\/Tween.js"
+                    },
+                    {
+                        "k": "698",
+                        "v": "Tween\/TweenTypes"
+                    },
+                    {
+                        "k": "699",
+                        "v": "Tween\/TweenTypes\/TweenTransform.js"
+                    },
+                    {
+                        "k": "700",
+                        "v": "Tween\/TweenManager.js"
+                    },
+                    {
+                        "k": "704",
+                        "v": "Tween\/TweenTypes\/TweenColor.js"
+                    },
+                    {
+                        "k": "705",
+                        "v": "Tween\/TweenTypes\/TweenAlpha.js"
+                    },
+                    {
+                        "k": "706",
+                        "v": "Tween\/TweenTypes\/Legacy"
+                    },
+                    {
+                        "k": "707",
+                        "v": "Tween\/TweenTypes\/Legacy\/TweenBillboard [DEPRECATED].js"
+                    },
+                    {
+                        "k": "708",
+                        "v": "Tween\/TweenTypes\/TweenValue.js"
+                    },
+                    {
+                        "k": "709",
+                        "v": "Tween\/TweenTypes\/TweenChain.js"
+                    },
+                    {
+                        "k": "711",
+                        "v": "Tween\/TweenTypes\/TweenScreenTransform.js"
+                    },
+                    {
+                        "k": "712",
+                        "v": "Texture\/Buttons\/a.jpg"
+                    },
+                    {
+                        "k": "713",
+                        "v": "Texture\/Buttons\/Cam_rgb.jpg"
+                    },
+                    {
+                        "k": "714",
+                        "v": "Texture\/Buttons\/RandomButton_rgb.jpg"
+                    },
+                    {
+                        "k": "715",
+                        "v": "Texture\/Buttons\/Repeat_rgb.jpg"
+                    },
+                    {
+                        "k": "716",
+                        "v": "Material\/CamButton.lsmat"
+                    },
+                    {
+                        "k": "717",
+                        "v": "Material\/RepeatButton.lsmat"
+                    },
+                    {
+                        "k": "718",
+                        "v": "Scripts\/RepeatButtonPress.js"
+                    },
+                    {
+                        "k": "719",
+                        "v": "Scripts\/CameraButtonPress.js"
+                    },
+                    {
+                        "k": "722",
+                        "v": "Material\/Sky.lsmat"
+                    },
+                    {
+                        "k": "723",
+                        "v": "Texture\/Buttons\/Up_rgb.jpg"
+                    },
+                    {
+                        "k": "724",
+                        "v": "Material\/UpButton.lsmat"
+                    },
+                    {
+                        "k": "725",
+                        "v": "Scripts\/UpButtonPress.js"
+                    },
+                    {
+                        "k": "730",
+                        "v": "Texture\/StarMap.jpg"
+                    },
+                    {
+                        "k": "731",
+                        "v": "Material\/Moon.lsmat"
+                    },
+                    {
+                        "k": "732",
+                        "v": "Material\/PlanetSurface.lsmat"
+                    },
+                    {
+                        "k": "733",
+                        "v": "Material\/ThinClouds.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "5",
+                        "v": "30c3d6858b49643e5866a2e8bf604ef0"
+                    },
+                    {
+                        "k": "7",
+                        "v": "8037c49540ec84209e25dd3a624e16f4"
+                    },
+                    {
+                        "k": "8",
+                        "v": "696e5fd8711691c91dd5c8a18c72f76f"
+                    },
+                    {
+                        "k": "9",
+                        "v": "0484abd87ee78b2745eb9563b19fd6a2"
+                    },
+                    {
+                        "k": "10",
+                        "v": "30419715be816ff115bd062b2b75ab38"
+                    },
+                    {
+                        "k": "11",
+                        "v": "c781bfed8a1de10c8ac61094d562b074"
+                    },
+                    {
+                        "k": "12",
+                        "v": "6e37ee1f902971353888e5cc52ddd2d3"
+                    },
+                    {
+                        "k": "14",
+                        "v": "ca6a55793555b88df4aca4a7329624e5"
+                    },
+                    {
+                        "k": "16",
+                        "v": "09a5c3ee815c9134ffc2d25e7355d78a"
+                    },
+                    {
+                        "k": "18",
+                        "v": "caeea0e0bf0313ac710d99cb41b32f56"
+                    },
+                    {
+                        "k": "19",
+                        "v": "c423d0672421aae010ca988af5ed0711"
+                    },
+                    {
+                        "k": "21",
+                        "v": "b5d0569357b9cc4534507e5ae0297587"
+                    },
+                    {
+                        "k": "22",
+                        "v": "f1f464cf7df32486a2ce15520f9255a4"
+                    },
+                    {
+                        "k": "23",
+                        "v": "e9167dc2c6b4be6840fd00390a21b633"
+                    },
+                    {
+                        "k": "26",
+                        "v": "d6706e60f0ea431467da735296bbc62e"
+                    },
+                    {
+                        "k": "28",
+                        "v": "821ba9ba366c1ddee522c9757a6683c2"
+                    },
+                    {
+                        "k": "29",
+                        "v": "83ccdbd156cc30a8439ca510cc9d604c"
+                    },
+                    {
+                        "k": "30",
+                        "v": "a0c9ec185adcfaf415840e029282116e"
+                    },
+                    {
+                        "k": "31",
+                        "v": "b7e62fa9f27522a619471393f6901247"
+                    },
+                    {
+                        "k": "32",
+                        "v": "4649d59d58657e786eebaad58a052d2a"
+                    },
+                    {
+                        "k": "33",
+                        "v": "c67a06366471d306e3d94feabb92c145"
+                    },
+                    {
+                        "k": "34",
+                        "v": "0484abd87ee78b2745eb9563b19fd6a2"
+                    },
+                    {
+                        "k": "35",
+                        "v": "a5ae081199a2dbd0f3e2dcf7ac4380d1"
+                    },
+                    {
+                        "k": "36",
+                        "v": "3924da4ece660b56cdcb4f2b7b3fe66c"
+                    },
+                    {
+                        "k": "37",
+                        "v": "3138d4a7c3925216dc2c414b755f0d0d"
+                    },
+                    {
+                        "k": "38",
+                        "v": "8b295b742b07b6d95aacf2e3f3d58ab6"
+                    },
+                    {
+                        "k": "40",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "41",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "42",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "43",
+                        "v": "f02b08b018c9d7b329037cdacd67eb43"
+                    },
+                    {
+                        "k": "45",
+                        "v": "91238895fe50761aeac67e2d97935d77"
+                    },
+                    {
+                        "k": "47",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "48",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "49",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "50",
+                        "v": "755cfc56f9cdab6b25c76cfe8b8d9bef"
+                    },
+                    {
+                        "k": "51",
+                        "v": "347b80b030dce6d0c6eb716376461e5c"
+                    },
+                    {
+                        "k": "52",
+                        "v": "85e39feced2a01511e80f8508b676ea3"
+                    },
+                    {
+                        "k": "53",
+                        "v": "0484abd87ee78b2745eb9563b19fd6a2"
+                    },
+                    {
+                        "k": "54",
+                        "v": "e28c398186d3d7bb04a82c3ed5116e64"
+                    },
+                    {
+                        "k": "685",
+                        "v": "6ecb94440fc3a7e2dcb239f518d8d56b"
+                    },
+                    {
+                        "k": "686",
+                        "v": "ac3c827add25274150b96a0274e930c5"
+                    },
+                    {
+                        "k": "687",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "688",
+                        "v": "ac662b1a82c9740f44269806fd794d7b"
+                    },
+                    {
+                        "k": "689",
+                        "v": "0609f3662e23b38dbf5e016c88db114f"
+                    },
+                    {
+                        "k": "691",
+                        "v": "d9b0f86b65abb8fca1c495fc816e96b7"
+                    },
+                    {
+                        "k": "692",
+                        "v": "aad7ff8ae8dfe31b32941df9149cc409"
+                    },
+                    {
+                        "k": "693",
+                        "v": "b8c4f74a16d1548b5c8cecb4b54a3c89"
+                    },
+                    {
+                        "k": "694",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "695",
+                        "v": "ac4550026fc3104cf3ef2223110785b0"
+                    },
+                    {
+                        "k": "697",
+                        "v": "db1633dd326bc8f976dd02c2fdb5bbf4"
+                    },
+                    {
+                        "k": "698",
+                        "v": "c131d6b8c0d4a0024e8bc15b93f5b58b"
+                    },
+                    {
+                        "k": "699",
+                        "v": "b8c4f74a16d1548b5c8cecb4b54a3c89"
+                    },
+                    {
+                        "k": "700",
+                        "v": "a094f372f9487690786f930bd7030e82"
+                    },
+                    {
+                        "k": "701",
+                        "v": "871e69e1d4fb4192ebb4b4623bd6ede7"
+                    },
+                    {
+                        "k": "702",
+                        "v": "8a3af68c16493bc48b0f7f17a1d6c065"
+                    },
+                    {
+                        "k": "703",
+                        "v": "0f22bac28f4bb7f9303722acb5d035e0"
+                    },
+                    {
+                        "k": "704",
+                        "v": "c131d6b8c0d4a0024e8bc15b93f5b58b"
+                    },
+                    {
+                        "k": "705",
+                        "v": "4ca6ca961ac63737cdfdb95767c3e077"
+                    },
+                    {
+                        "k": "707",
+                        "v": "871e69e1d4fb4192ebb4b4623bd6ede7"
+                    },
+                    {
+                        "k": "708",
+                        "v": "8a3af68c16493bc48b0f7f17a1d6c065"
+                    },
+                    {
+                        "k": "709",
+                        "v": "a8212c4a0d7f900c75c80ad4829f91f0"
+                    },
+                    {
+                        "k": "710",
+                        "v": "550028626efc41ac36131021cda09b5e"
+                    },
+                    {
+                        "k": "711",
+                        "v": "15f4c60fdceda581e50db7b5e824cda4"
+                    },
+                    {
+                        "k": "712",
+                        "v": "b4b09c981fddf9efd0f1bc73acc76b81"
+                    },
+                    {
+                        "k": "713",
+                        "v": "06033518fb35af023a6e004a3449692e"
+                    },
+                    {
+                        "k": "714",
+                        "v": "104a7ba171ff8cad8c8644f64e3b85bf"
+                    },
+                    {
+                        "k": "715",
+                        "v": "1a35e1c0a45ceb1738104999d36daf68"
+                    },
+                    {
+                        "k": "716",
+                        "v": "1f3a7a56b19c5d558b6348102f537f45"
+                    },
+                    {
+                        "k": "717",
+                        "v": "e47685c57f0269f4e1b028e95a2817c0"
+                    },
+                    {
+                        "k": "718",
+                        "v": "44da2fc3021ac22c6a224d7123ffd197"
+                    },
+                    {
+                        "k": "719",
+                        "v": "8271f5f21fd97aa5316f3b4a6ddad617"
+                    },
+                    {
+                        "k": "721",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "722",
+                        "v": "4eabe3b8ef7b3192005d2b057c915f7d"
+                    },
+                    {
+                        "k": "723",
+                        "v": "f7c01d92c7fc66f02d7b4a8837d86377"
+                    },
+                    {
+                        "k": "724",
+                        "v": "7c8dec9ffd2068f9c5ebe960bc84efa3"
+                    },
+                    {
+                        "k": "725",
+                        "v": "60ac24e3d5b9a1a956e2155e604b00d2"
+                    },
+                    {
+                        "k": "726",
+                        "v": "5bcb6953a0a7d444718a368019f1e3cb"
+                    },
+                    {
+                        "k": "727",
+                        "v": "6025bbbce1c273c9a475a385c2f7a66a"
+                    },
+                    {
+                        "k": "728",
+                        "v": "2e15aad9219b242512d650341b5a511c"
+                    },
+                    {
+                        "k": "729",
+                        "v": "b12866a8106c15cf2701cf0450a276c2"
+                    },
+                    {
+                        "k": "730",
+                        "v": "b12866a8106c15cf2701cf0450a276c2"
+                    },
+                    {
+                        "k": "731",
+                        "v": "11fde318c66ab878014c32871facdff3"
+                    },
+                    {
+                        "k": "732",
+                        "v": "85efbc2a94983f1bb2ec4c4fce4759dc"
+                    },
+                    {
+                        "k": "733",
+                        "v": "49d05d1f1e77a100d65b0c94e2f3ed20"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-01-22T00:12:43",
+                        "name": "Public",
+                        "hash": "ee413a2da47109bb68857ca6b0be7a5c",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-11T15:51:58",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-22T00:12:43",
+                                "name": "Material",
+                                "hash": "95f8a2a90338907df49449a5c97672eb",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-31T17:06:38",
+                                        "name": "CamButton.lsmat",
+                                        "hash": "1f3a7a56b19c5d558b6348102f537f45",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-14T17:27:01",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-31T17:14:08",
+                                        "name": "Matte Shadow.lsmat",
+                                        "hash": "3138d4a7c3925216dc2c414b755f0d0d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-22T00:12:42",
+                                        "name": "Moon.lsmat",
+                                        "hash": "fc46cb2f5e8ee3b01f0c3f6cdac56a94",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-22T00:12:42",
+                                        "name": "PlanetSurface.lsmat",
+                                        "hash": "28024f9d88abbbb08bd4d7288be35412",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-31T17:01:35",
+                                        "name": "RandomButton.lsmat",
+                                        "hash": "ac4550026fc3104cf3ef2223110785b0",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-31T17:39:55",
+                                        "name": "RepeatButton.lsmat",
+                                        "hash": "e47685c57f0269f4e1b028e95a2817c0",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-31T19:00:07",
+                                        "name": "Sky.lsmat",
+                                        "hash": "4eabe3b8ef7b3192005d2b057c915f7d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-22T00:12:43",
+                                        "name": "ThinClouds.lsmat",
+                                        "hash": "232b3a6d8badcf3ca3274fea4c0f685c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-21T20:51:51",
+                                        "name": "touch_collision.lsmat",
+                                        "hash": "c67a06366471d306e3d94feabb92c145",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-31T17:40:12",
+                                        "name": "UpButton.lsmat",
+                                        "hash": "7c8dec9ffd2068f9c5ebe960bc84efa3",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-22T00:12:43",
+                                "name": "Mesh",
+                                "hash": "b6436006df747c579313093ed1fb372e",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-14T17:24:10",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-21T20:46:52",
+                                        "name": "plane.mesh",
+                                        "hash": "4649d59d58657e786eebaad58a052d2a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-23T00:34:34",
+                                        "name": "Sphere.mesh",
+                                        "hash": "0484abd87ee78b2745eb9563b19fd6a2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-14T17:55:23",
+                                        "name": "Sphere_HQ.obj",
+                                        "hash": "696e5fd8711691c91dd5c8a18c72f76f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-21T20:46:52",
+                                        "name": "touch_collision_cube.mesh",
+                                        "hash": "e9167dc2c6b4be6840fd00390a21b633",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-22T00:12:43",
+                                "name": "Scripts",
+                                "hash": "70938a682f3c79fae0339046e1edba0b",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-19T20:10:49",
+                                        "name": "CameraButtonPress.js",
+                                        "hash": "8271f5f21fd97aa5316f3b4a6ddad617",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-21T20:46:52",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-19T20:11:06",
+                                        "name": "PlanetController.js",
+                                        "hash": "ac662b1a82c9740f44269806fd794d7b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-19T20:10:58",
+                                        "name": "RandomButtonPress.js",
+                                        "hash": "0609f3662e23b38dbf5e016c88db114f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-19T20:10:53",
+                                        "name": "RepeatButtonPress.js",
+                                        "hash": "44da2fc3021ac22c6a224d7123ffd197",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-19T20:10:45",
+                                        "name": "UpButtonPress.js",
+                                        "hash": "60ac24e3d5b9a1a956e2155e604b00d2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-19T20:42:50",
+                                        "name": "WorldObjectController.js",
+                                        "hash": "f1f464cf7df32486a2ce15520f9255a4",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-22T00:12:43",
+                                "name": "Stream",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-14T17:23:56",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-22T00:12:43",
+                                "name": "Texture",
+                                "hash": "c1e43f96fc7f71a06aa64c122d70c81f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-23T00:06:22",
+                                        "name": "black.png",
+                                        "hash": "85e39feced2a01511e80f8508b676ea3",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-01-22T00:12:43",
+                                        "name": "Buttons",
+                                        "hash": "21bdf63eaa1bdf3b09ee7797e31ef1f1",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-31T16:41:47",
+                                                "name": "a.jpg",
+                                                "hash": "b4b09c981fddf9efd0f1bc73acc76b81",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-31T16:58:48",
+                                                "name": "Cam_rgb.jpg",
+                                                "hash": "06033518fb35af023a6e004a3449692e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-30T19:24:08",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-31T16:41:24",
+                                                "name": "RandomButton_rgb.jpg",
+                                                "hash": "104a7ba171ff8cad8c8644f64e3b85bf",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-31T16:56:05",
+                                                "name": "Repeat_rgb.jpg",
+                                                "hash": "1a35e1c0a45ceb1738104999d36daf68",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-31T17:35:44",
+                                                "name": "Up_rgb.jpg",
+                                                "hash": "f7c01d92c7fc66f02d7b4a8837d86377",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-22T17:54:15",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-31T18:58:22",
+                                        "name": "StarMap.jpg",
+                                        "hash": "b12866a8106c15cf2701cf0450a276c2",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-22T00:12:43",
+                                "name": "Tween",
+                                "hash": "62895164f88abeeede1493d7da01241d",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-30T19:32:58",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-30T19:32:57",
+                                        "name": "Tween.js",
+                                        "hash": "db1633dd326bc8f976dd02c2fdb5bbf4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-30T19:32:57",
+                                        "name": "TweenManager.js",
+                                        "hash": "a094f372f9487690786f930bd7030e82",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-01-22T00:12:43",
+                                        "name": "TweenTypes",
+                                        "hash": "e40711bb4f8625c50edc867f0a226ef2",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-30T19:32:58",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-01-22T00:12:43",
+                                                "name": "Legacy",
+                                                "hash": "1b3c33a31e2012e2fb122c85002e1df4",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-12-30T19:32:59",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-12-30T19:32:57",
+                                                        "name": "TweenBillboard [DEPRECATED].js",
+                                                        "hash": "871e69e1d4fb4192ebb4b4623bd6ede7",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-30T19:32:57",
+                                                "name": "TweenAlpha.js",
+                                                "hash": "4ca6ca961ac63737cdfdb95767c3e077",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-30T19:32:57",
+                                                "name": "TweenChain.js",
+                                                "hash": "a8212c4a0d7f900c75c80ad4829f91f0",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-30T19:32:57",
+                                                "name": "TweenColor.js",
+                                                "hash": "c131d6b8c0d4a0024e8bc15b93f5b58b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-30T19:32:57",
+                                                "name": "TweenScreenTransform.js",
+                                                "hash": "15f4c60fdceda581e50db7b5e824cda4",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-30T19:32:57",
+                                                "name": "TweenTransform.js",
+                                                "hash": "b8c4f74a16d1548b5c8cecb4b54a3c89",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-30T19:32:57",
+                                                "name": "TweenValue.js",
+                                                "hash": "8a3af68c16493bc48b0f7f17a1d6c065",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Stream",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "3",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Render Target UI",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "79",
+                                "dependency": "0",
+                                "uid": "1577830254669768:108897",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mesh",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "4",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Sphere_HQ",
+                                "type": "18",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "uid": "-1:-1",
+                                "fileId": "11",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8",
+                                "source": "C:\/Users\/Max\/Desktop\/Shader Graph\/sphere_hq\/Sphere_HQ.obj",
+                                "additional": {
+                                    "materialMapping": ""
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Resource",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "13",
+                                                "dependency": "1",
+                                                "uid": "1576363707123800:7522",
+                                                "fileId": "9",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-iYUNBe\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Animations",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": ""
+                                    },
+                                    {
+                                        "name": "Sphere_HQ",
+                                        "type": "12",
+                                        "subtype": "-1",
+                                        "resourceId": "14",
+                                        "dependency": "1",
+                                        "uid": "1576363707178544:7548",
+                                        "fileId": "10",
+                                        "originalId": "12",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "touch_collision_cube",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "25",
+                                "dependency": "0",
+                                "uid": "1576979213850399:8033",
+                                "fileId": "29",
+                                "originalId": "18446744073709551615",
+                                "publicId": "23",
+                                "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-uIlYzP\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": ""
+                            },
+                            {
+                                "name": "plane",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "31",
+                                "dependency": "0",
+                                "uid": "1576979215122367:8116",
+                                "fileId": "39",
+                                "originalId": "18446744073709551615",
+                                "publicId": "32",
+                                "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-uIlYzP\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Sphere",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "49",
+                                "dependency": "0",
+                                "uid": "1577079274628231:81114",
+                                "fileId": "71",
+                                "originalId": "18446744073709551615",
+                                "publicId": "53",
+                                "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-tWFUmW\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Material",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "6",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "touch_collision",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "32",
+                                "dependency": "0",
+                                "uid": "1576979215196453:8128",
+                                "fileId": "40",
+                                "originalId": "41",
+                                "publicId": "33",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Matte Shadow",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "36",
+                                "dependency": "0",
+                                "uid": "1577050656243463:43772",
+                                "fileId": "45",
+                                "originalId": "46",
+                                "publicId": "37",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "RandomButton",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "59",
+                                "dependency": "0",
+                                "uid": "1577752009336747:8844",
+                                "fileId": "87",
+                                "originalId": "88",
+                                "publicId": "695",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "CamButton",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "75",
+                                "dependency": "0",
+                                "uid": "1577829708115234:17674",
+                                "fileId": "108",
+                                "originalId": "109",
+                                "publicId": "716",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "RepeatButton",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "76",
+                                "dependency": "0",
+                                "uid": "1577829710362862:18724",
+                                "fileId": "110",
+                                "originalId": "111",
+                                "publicId": "717",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Sky",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "80",
+                                "dependency": "0",
+                                "uid": "1577830773020258:130536",
+                                "fileId": "114",
+                                "originalId": "115",
+                                "publicId": "722",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "UpButton",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "83",
+                                "dependency": "0",
+                                "uid": "1577831946265179:200316",
+                                "fileId": "120",
+                                "originalId": "121",
+                                "publicId": "724",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Moon",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "90",
+                                "dependency": "0",
+                                "uid": "1579481018577659:17499",
+                                "fileId": "133",
+                                "originalId": "134",
+                                "publicId": "731",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "PlanetSurface",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "91",
+                                "dependency": "0",
+                                "uid": "1579481021345824:17607",
+                                "fileId": "135",
+                                "originalId": "136",
+                                "publicId": "732",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "ThinClouds",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "92",
+                                "dependency": "0",
+                                "uid": "1579481026063904:19654",
+                                "fileId": "137",
+                                "originalId": "138",
+                                "publicId": "733",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "15",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "WorldObjectController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "24",
+                                "dependency": "0",
+                                "uid": "1576979213700050:8017",
+                                "fileId": "28",
+                                "originalId": "18446744073709551615",
+                                "publicId": "22",
+                                "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-uIlYzP\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "PlanetController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "55",
+                                "dependency": "0",
+                                "uid": "1577580782772440:6569",
+                                "fileId": "81",
+                                "originalId": "18446744073709551615",
+                                "publicId": "688",
+                                "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-gwkKKd\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "RandomButtonPress",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "56",
+                                "dependency": "0",
+                                "uid": "1577749297053987:31314",
+                                "fileId": "82",
+                                "originalId": "18446744073709551615",
+                                "publicId": "689",
+                                "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-ukyUGV\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "RepeatButtonPress",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "77",
+                                "dependency": "0",
+                                "uid": "1577830152135184:88634",
+                                "fileId": "112",
+                                "originalId": "18446744073709551615",
+                                "publicId": "718",
+                                "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-ukyUGV\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "CameraButtonPress",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "78",
+                                "dependency": "0",
+                                "uid": "1577830161467168:90938",
+                                "fileId": "113",
+                                "originalId": "18446744073709551615",
+                                "publicId": "719",
+                                "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-ukyUGV\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "UpButtonPress",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "84",
+                                "dependency": "0",
+                                "uid": "1577832016416626:206399",
+                                "fileId": "122",
+                                "originalId": "18446744073709551615",
+                                "publicId": "725",
+                                "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-ukyUGV\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Texture",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "44",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "black",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "48",
+                                "dependency": "0",
+                                "uid": "1577077595807091:66400",
+                                "fileId": "69",
+                                "originalId": "70",
+                                "publicId": "52",
+                                "source": "C:\/Users\/Max\/Desktop\/Snapchat Lenses\/OLC\/PROJECTS\/PlanetGenerator\/MEDIA\/black.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Buttons",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "690",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "a",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "71",
+                                        "dependency": "0",
+                                        "uid": "1577829683283197:8296",
+                                        "fileId": "100",
+                                        "originalId": "101",
+                                        "publicId": "712",
+                                        "source": "C:\/Users\/Max\/Desktop\/Snapchat Lenses\/OLC\/PROJECTS\/PlanetGenerator\/MEDIA\/ICONS\/a.jpg",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Cam_rgb",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "72",
+                                        "dependency": "0",
+                                        "uid": "1577829683561828:8305",
+                                        "fileId": "102",
+                                        "originalId": "103",
+                                        "publicId": "713",
+                                        "source": "C:\/Users\/Max\/Desktop\/Snapchat Lenses\/OLC\/PROJECTS\/PlanetGenerator\/MEDIA\/ICONS\/Cam_rgb.jpg",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "RandomButton_rgb",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "73",
+                                        "dependency": "0",
+                                        "uid": "1577829683955504:9140",
+                                        "fileId": "104",
+                                        "originalId": "105",
+                                        "publicId": "714",
+                                        "source": "C:\/Users\/Max\/Desktop\/Snapchat Lenses\/OLC\/PROJECTS\/PlanetGenerator\/MEDIA\/ICONS\/RandomButton_rgb.jpg",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Up_rgb",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "82",
+                                        "dependency": "0",
+                                        "uid": "1577831807237782:197646",
+                                        "fileId": "118",
+                                        "originalId": "119",
+                                        "publicId": "723",
+                                        "source": "C:\/Users\/Max\/Desktop\/Snapchat Lenses\/OLC\/PROJECTS\/PlanetGenerator\/MEDIA\/ICONS\/Up_rgb.jpg",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Repeat_rgb",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "74",
+                                        "dependency": "0",
+                                        "uid": "1577829684558689:9985",
+                                        "fileId": "106",
+                                        "originalId": "107",
+                                        "publicId": "715",
+                                        "source": "C:\/Users\/Max\/Desktop\/Snapchat Lenses\/OLC\/PROJECTS\/PlanetGenerator\/MEDIA\/ICONS\/Repeat_rgb.jpg",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "StarMap",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "89",
+                                "dependency": "0",
+                                "uid": "1577836752781481:21954",
+                                "fileId": "131",
+                                "originalId": "132",
+                                "publicId": "730",
+                                "source": "C:\/Users\/Max\/Desktop\/Snapchat Lenses\/OLC\/PROJECTS\/PlanetGenerator\/MEDIA\/StarMap.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tween",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "696",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Tween",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "60",
+                                "dependency": "0",
+                                "uid": "1577752378411750:31117",
+                                "fileId": "89",
+                                "originalId": "18446744073709551615",
+                                "publicId": "697",
+                                "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-EyCrzv\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TweenTypes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "698",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "TweenTransform",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "61",
+                                        "dependency": "0",
+                                        "uid": "1577752378530761:31129",
+                                        "fileId": "90",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "699",
+                                        "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-EyCrzv\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenColor",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "64",
+                                        "dependency": "0",
+                                        "uid": "1577752378952112:31169",
+                                        "fileId": "93",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "704",
+                                        "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-EyCrzv\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenAlpha",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "65",
+                                        "dependency": "0",
+                                        "uid": "1577752379086001:31181",
+                                        "fileId": "94",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "705",
+                                        "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-EyCrzv\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Legacy",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "706",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "TweenBillboard [DEPRECATED]",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "66",
+                                                "dependency": "0",
+                                                "uid": "1577752379255909:31193",
+                                                "fileId": "95",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "707",
+                                                "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-EyCrzv\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "TweenValue",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "67",
+                                        "dependency": "0",
+                                        "uid": "1577752379394355:31205",
+                                        "fileId": "96",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "708",
+                                        "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-EyCrzv\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenChain",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "68",
+                                        "dependency": "0",
+                                        "uid": "1577752379557930:31217",
+                                        "fileId": "97",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "709",
+                                        "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-EyCrzv\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenScreenTransform",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "70",
+                                        "dependency": "0",
+                                        "uid": "1577752379767033:31253",
+                                        "fileId": "99",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "711",
+                                        "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-EyCrzv\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "TweenManager",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "62",
+                                "dependency": "0",
+                                "uid": "1577752378666865:31141",
+                                "fileId": "91",
+                                "originalId": "18446744073709551615",
+                                "publicId": "700",
+                                "source": "C:\/Users\/Max\/AppData\/Local\/Temp\/Lens Studio-EyCrzv\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1577580782772440:6569",
+                        "path_list": [
+                            "Scripts",
+                            "PlanetController"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": [
+                {
+                    "k": "1576363707178544:7548",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1576364126874544:8452"
+                        },
+                        {
+                            "k": [
+                                "Scene Object"
+                            ],
+                            "v": "1576364126875374:8454"
+                        },
+                        {
+                            "k": [
+                                "Scene Object",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1576364126875912:8456"
+                        }
+                    ]
+                },
+                {
+                    "k": "1577141459744110:109628",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1577141459186184:109571"
+                        },
+                        {
+                            "k": [
+                                "Scene Object"
+                            ],
+                            "v": "1577141459187077:109573"
+                        },
+                        {
+                            "k": [
+                                "Scene Object",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1577141459188184:109575"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
