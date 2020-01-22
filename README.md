@@ -1,6 +1,12 @@
-Lens Studio project for procedural planet generation using the Shader Graph Editor (.lso, project).
+![Planet Generator](https://thumbs.gfycat.com/MediocreHeartfeltJoey-small.gif)
+
+
+
+A Lens Studio project for procedural planet generation using the Shader Graph Editor (.lso, project)!
 
 Has a nice UI and some cool features.
+
+
 
 
 This is what the planets look like:
@@ -15,4 +21,7 @@ https://gfycat.com/ifr/MediocreHeartfeltJoey
 
 
 
-![Planet Generator](https://thumbs.gfycat.com/MediocreHeartfeltJoey-size_restricted.gif)
+
+
+
+For more information on the Shader Graph in Lens Studio, ![check out my tutorial](https://maxvanleeuwen.com/lens-studio-shader-graph)!
