@@ -10,7 +10,7 @@ Has a nice UI and some cool features.
 
 This is what the planets look like:
 
-https://gfycat.com/faroffflimsyflicker
+https://gfycat.com/ifr/faroffflimsyflicker
 
 <br/><br/>
 
