@@ -1,4 +1,4 @@
-![Planet Generator](https://thumbs.gfycat.com/MediocreHeartfeltJoey-small.gif)
+![Planet Generator](https://thumbs.gfycat.com/WeirdDirectJaguarundi-small.gif)
 
 <br/><br/>
 
@@ -17,7 +17,7 @@ https://gfycat.com/ifr/faroffflimsyflicker
 
 And this is a planet when it's continuously changing:
 
-https://gfycat.com/ifr/MediocreHeartfeltJoey
+https://gfycat.com/weirddirectjaguarundi
 
 <br/><br/>
 
