@@ -11,7 +11,7 @@ The main script contains some useful functons, like a linear to cubic converter,
 
 This is what the planets look like:
 
-https://gfycat.com/ifr/faroffflimsyflicker
+https://gfycat.com/validdefensivegalapagospenguin
 
 <br/><br/>
 
