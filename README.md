@@ -1,23 +1,13 @@
-![Planet Generator](https://thumbs.gfycat.com/WeirdDirectJaguarundi-small.gif)
+# Planet Generator (shader + script)
 
-<br/><br/>
+![Planet Generator](https://github.com/max-van-leeuwen/SnapLensStudio-PlanetGenerator/blob/master/Media/planet%20generator.gif?raw=true)
 
-A Lens Studio project for procedural planet generation using the Shader Graph Editor (.lso, project)!
+
+
+A Lens Studio project for procedural planet generation using the Shader Graph Editor.
 
 Has a nice UI and some cool features!
-The main script contains some useful functons, like a linear to cubic converter, a random number generator with normal (bell curve) distribution, and some good examples of how to combine script and Shader Graph.
-
-<br/><br/>
-
-This is what the planets look like:
-
-https://gfycat.com/validdefensivegalapagospenguin
-
-<br/><br/>
-
-And this is a planet when it's continuously changing:
-
-https://gfycat.com/weirddirectjaguarundi
+The main script contains useful functons, like a linear to cubic converter, a random number generator with normal (bell curve) distribution, and some good examples of how to combine script and Shader Graph.
 
 <br/><br/>
 
